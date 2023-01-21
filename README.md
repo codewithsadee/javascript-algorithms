@@ -8,7 +8,7 @@ popular algorithms and data structures.
 
 Each algorithm and data structure has its own separate README
 with related explanations and links for further reading (including ones
-to YouTube videos).
+to YouTube videos)
 
 _Read this in other languages:_
 [_简体中文_](README.zh-CN.md),
